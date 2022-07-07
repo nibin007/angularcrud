@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Ajith",
+      "lastName": "Sivakumar",
+      "phone": "982112345",
+      "email": "ajith@gmail.com",
+      "salary": "980000"
+    },
+    {
+      "id": 3,
+      "firstName": "Renjith",
+      "lastName": "KR",
+      "phone": "987456128",
+      "email": "renjith@gmail.com",
+      "salary": "984523"
+    },
+    {
+      "id": 4,
+      "firstName": "Jith",
+      "lastName": "A",
+      "phone": "4578985621",
+      "email": "jith@gmail.com",
+      "salary": "984565"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
